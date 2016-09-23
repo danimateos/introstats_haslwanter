@@ -1,0 +1,1 @@
+Notes and exercises from the book *An introduction to statistics with Python*, by Thomas Haslwander.
